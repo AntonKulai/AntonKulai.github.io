@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es2022",
+    "esModuleInterop": true,
+    "strict": true,
+    "allowJs": true,  
+    "noUncheckedIndexedAccess": true
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+    "include": ["src"]
+}
